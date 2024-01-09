@@ -47,7 +47,7 @@ body{
     color: white;
 }
 .inputs{
-    width: 300px;
+    width: 95%;
     height: 70px;
 
     display: flex;
@@ -71,7 +71,7 @@ input{
     cursor: pointer;
 }
 .outputs{
-    width: 300px;
+    width: 95%;
     height: 80px;
     display: flex;
     align-items: center;
