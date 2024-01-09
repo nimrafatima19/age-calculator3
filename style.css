@@ -60,10 +60,11 @@ body{
     border-color: #113977;
     color: #113977;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    gap: 5px;
 }
 input{
     
-    width:170px;
+    width:80%;
     height: 40px;
     border-radius: 10px;
     font-size: larger;
@@ -121,7 +122,7 @@ input{
 
 }
 button{
-    width: 100px;
+    width: 50%;
     height: 40px;
     display: flex;
     align-items: center;
@@ -149,4 +150,5 @@ button:hover{
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
